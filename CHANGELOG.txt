@@ -1,3 +1,13 @@
+1.01 9/15/2022
+Parts Updated: T Bar Right, T Bar Left, Actuator.
+Parts Added: Kitsune Holster, Kitsune Holster Belt Clip.
+
+-T bars updated to remove the reference foam pad from the file.
+-Actuator made slightly less aggressive to avoid possible
+missfire issues
+-Holster & Holster belt clip added to fileset, forgot to
+upload them in 1.00.
+
 1.00 9/7/2022
 
 Kitsune fileset released, alongside HW Kits.
