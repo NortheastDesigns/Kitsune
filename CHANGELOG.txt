@@ -1,10 +1,35 @@
+1.02 9/27/2022
+
+Parts updated: Actuator, Muzzle, Long Barrel Muzzle, All Body shims, Spring Spacers, Trigger Rods (MINOR),
+
+Parts Added: Mega XL Barrel, Acutator AGGRO, Actuator LAX.
+
+-Actuator made slightly more aggressive as standard. Two alternate actuators added, 
+labled “Aggro”, and “Lax”. Use the “Aggro” actuator if your trigger fails to 
+release the catch, and use the “Lax” actuator if you have misfire issues.
+
+-Muzzles updated to add a face on the end keeping the barrel from working its way forward during use. 
+
+-All body shims updated to make them easier to fit over the priming bars.
+
+-Both spring spacers updated to add a smoother lip to prevent the possibility 
+of the plunger colliding with the spacer while priming.
+
+-(MINOR) Trigger Rods updated to add a detent area for the foam pads to sit in, 
+making them less likely to curl up at the edges.
+
+-Mega XL Muzzle Loading Barrel added to fileset, found in the "Extra" folder.
+
 1.01 9/15/2022
 Parts Updated: T Bar Right, T Bar Left, Actuator.
+
 Parts Added: Kitsune Holster, Kitsune Holster Belt Clip.
 
 -T bars updated to remove the reference foam pad from the file.
+
 -Actuator made slightly less aggressive to avoid possible
 missfire issues
+
 -Holster & Holster belt clip added to fileset, forgot to
 upload them in 1.00.
 
